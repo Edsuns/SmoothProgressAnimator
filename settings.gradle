@@ -1,0 +1,3 @@
+include ':SmoothProgressAnimator'
+include ':app'
+rootProject.name = "SmoothProgress"
